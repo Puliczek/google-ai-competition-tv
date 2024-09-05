@@ -1,36 +1,85 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
+  <p>
+    🤝 Show your support - give a ⭐️ if you liked the content
+  </p>
+  <p>
+    <a target="_blank" href='https://twitter.com/pulik_io'><img src="https://img.shields.io/twitter/follow/pulik_io" alt="X (formerly Twitter) Follow" width="180" height="30"/></a>
+  </p>
+</div>
 
-## Getting Started
+---
 
-First, run the development server:
+# 📺 Unofficial Google AI Competition TV
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This project showcases innovative AI projects from the Google AI Competition, allowing users to explore, filter, and quickly navigate through them. The competition can be found at: https://ai.google.dev/competition
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+My submission to the competition: https://ai.google.dev/competition/projects/darksai-mystery-stories-mobile-game
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+## 🌐 Live Demo
 
-To learn more about Next.js, take a look at the following resources:
+Experience the Unofficial Google AI Competition TV in action:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### [**🔗 Live Demo**](https://google-ai-competition-tv.vercel.app/)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Google AI Competition TV](img.jpg)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## ✨ Features
+
+- Watch demo videos of AI projects 🎥
+- Search for specific apps 🔍
+- Discover a wide range of AI applications 🚀
+- User-friendly interface for easy navigation 🖱️
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/google-ai-competition-tv.git
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
+
+3. Run the development server:
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
+
+4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## 🛠️ Built With
+
+- [Next.js](https://nextjs.org/) - The React framework for production
+- [React](https://reactjs.org/) - A JavaScript library for building user interfaces
+- [TypeScript](https://www.typescriptlang.org/) - Typed JavaScript at Any Scale
+- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework
+
+## 📝 Usage
+
+- Use the search bar to find specific AI projects or technologies.
+- Click on the "Next" button or press Enter to cycle through different project videos.
+- Toggle the UI visibility using the eye icon on the left side of the screen.
+- Click on "Check on Google AI Competition" to view more details about the current project.
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/google-ai-competition-tv/issues).
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## 🙏 Acknowledgements
+
+- Google AI Competition for creating Google AI Competition
+- All the innovative AI developers who participated in the competition
