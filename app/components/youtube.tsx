@@ -213,7 +213,7 @@ const YouTubePlayer = () => {
               </div>
             </>
           )}
-          <div className="absolute inset-y-0 right-0 flex items-center px-10">
+          <div className="absolute right-0 flex items-center px-10">
             <Button
               variant="default"
               onClick={handleNext}
@@ -221,7 +221,7 @@ const YouTubePlayer = () => {
               aria-label="Next video"
               autoFocus
             >
-              <span className="text-xs mr-2 bg-gray-600 px-2 py-0.5 rounded-md hidden sm:inline-block">ENTER</span>
+              <span className="text-xs mr-2 bg-gray-600 px-2 py-0.5 rounded-md hidden md:inline-block">ENTER</span>
               NEXT
               <ChevronRight className="h-5 w-5 -mt-0.5 ml-1" />
             </Button>
