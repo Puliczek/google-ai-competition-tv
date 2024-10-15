@@ -21,7 +21,7 @@ My submission to the competition: https://ai.google.dev/competition/projects/dar
 
 Experience the Unofficial Google AI Competition TV in action:
 
-### [**🔗 Live Demo**](https://google-ai-competition-tv.vercel.app/)
+### [**🔗 Live Demo**](https://tv.pulik.io/)
 
 
 
